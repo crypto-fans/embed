@@ -1,7 +1,7 @@
  <title>Home</title>
 </head>
 <body>
-    <iframe   src='https://marketplace.crypto-fans.xyz/saas-v1/embed?page=home&hideLayout=true'height='800px' width='100%'  ></iframe>
+    <iframe   src='https://marketplace.crypto-fans.xyz/embed?page=saas-v1&hideLayout=true'height='800px' width='100%'  ></iframe>
   
 
 
