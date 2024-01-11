@@ -1,12 +1,12 @@
- <title>Home</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
 </head>
 <body>
-    <iframe   src='https://marketplace.crypto-fans.xyz//embed?page=saas-v2-billet&hideLayout=true'height='800px' width='100%'  ></iframe>
-
-
-
-
-
-
-
+    <iframe src="https://marketplace.crypto-fans.xyz/embed?page=saas-v2-billet&hideLayout=true" height="800px" width="100%"></iframe>
 </body>
+</html>
+
